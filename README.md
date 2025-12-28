@@ -19,7 +19,6 @@ I build performant, maintainable web interfaces and enjoy automation-driven work
 **Tools:** Git, Firebase, Node.js, VS Code, Figma, Scrum  
 **Experience:** REST APIs, LocalStorage, HTML5 Canvas
 
-<!-- Optional badges (keep or remove) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-000000?logo=angular)

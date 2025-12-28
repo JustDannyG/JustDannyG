@@ -43,8 +43,8 @@ Live: https://danny-gruchmann.de/el-pollo-loco/index.html
 ---
 
 ## Currently
-- Expanding backend knowledge to complete a full-stack skill set
 - Learning and building automation workflows
+- Expanding backend knowledge to complete a full-stack skill set
 
 ---
 
